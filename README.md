@@ -15,4 +15,4 @@ Use Bootstrap to style the web app.
 
 ## Challenge Summary
 
-![](webapp_screenshot.png) 
+![](https://github.com/hackydunk/Mission-to-Mars/blob/master/webapp_screenshot.PNG) 
